@@ -1,0 +1,6 @@
+n=str(input("Inroduceti numele:"))
+p=str(input("Introduceti numele starzii pe care traiti:"))
+a=str(input("Introduceti scola in care invatati\ a-ti invatat:"))
+b=str(input("Introduceti culoarea preferata:"))
+print(n,p,a,b,sep=" ")
+print("Buna ziua",n,",va sluta cmd,acum cunos ca traiti pe strada",p,"si invatati\ a-ti invatat in",a,", iar culoarea preferata este",b,end=".")
